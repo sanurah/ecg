@@ -1,4 +1,4 @@
-# ECG Anomaly Detection
+# Quantum ECG Anomaly Detection
 
 Quantum vs Classical anomaly detection for ECG data using One-Class SVM.
 
